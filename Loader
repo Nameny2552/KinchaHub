@@ -1,5 +1,5 @@
 local gamelist = {
-    [994732206]  = "https://github.com/Nameny2552/KinchaHub/tree/main",
+    [994732206]  = "https://github.com/Nameny2552/KinchaHub/blob/main/Bloxfruit",
    
 }
 local checkgame = gamelist[game.gameId]
